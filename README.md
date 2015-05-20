@@ -1,4 +1,4 @@
-# A Hello web app with SpringBoot, Java, Gradle
+# Getting started SpringBoot with Java, Gradle
 
 # Credits
 
